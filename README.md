@@ -28,3 +28,5 @@ Description in Russian:
 Простым перетягиванием на иконку приложения картинки превращаются в PDF.
 
 Для того чтобы превратить его в exe файл можно воспользоваться pyinstaller.
+
+https://bitlite.ru/novosti/eksport-kartinok-v-pdf/
